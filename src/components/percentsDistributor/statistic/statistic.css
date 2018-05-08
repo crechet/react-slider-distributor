@@ -1,0 +1,10 @@
+.statistic {
+    margin: 0 auto;
+    text-align: left;
+    //padding-left: 100px;
+}
+
+.statistic-list {
+    list-style: none;
+    padding: 0;
+}
